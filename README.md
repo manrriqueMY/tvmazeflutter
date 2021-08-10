@@ -21,6 +21,10 @@ samples, guidance on mobile development, and a full API reference.
 https://drive.google.com/drive/folders/1y3GX1KFWMUAY6_1gf6yqs7e8X_VfTrzg
 ```
 
+# video
+
+https://youtu.be/GFzn0_jNmuE
+
 # setup
 
 ```
